@@ -1,0 +1,24 @@
+{
+  "name": "usehooks",
+  "version": "0.0.1",
+  "description": "Usefull react hooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkinmedo/usehooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "util"
+  ],
+  "author": "Mohammed Shammout",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linkinmedo/usehooks/issues"
+  },
+  "homepage": "https://github.com/linkinmedo/usehooks#readme"
+}
